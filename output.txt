@@ -1,4 +1,0 @@
-Enter the value of a : 
-Enter the value of b : 
-Enter the operation : 
-The difference of a and b is : 0
